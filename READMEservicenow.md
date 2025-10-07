@@ -71,7 +71,6 @@ For **production environments**, you may need:
 - 🎫 An incident number is automatically generated
 - 📧 You may receive a confirmation email (depending on settings)
 
-> **🔍 Pro Tip:** Write down your incident number for easy tracking!
 
 ---
 
@@ -79,30 +78,3 @@ For **production environments**, you may need:
 
 **Congratulations!** You've successfully created your first incident ticket in ServiceNow.
 
----
-
-## 📚 Best Practices
-
-| Tip | Description |
-|-----|-------------|
-| **Be Specific** | Include exact error messages or symptoms |
-| **Be Concise** | Keep descriptions brief but informative |
-| **Include Details** | Add when the issue started and who is affected |
-| **Use Keywords** | Help support teams categorize and route tickets faster |
-
----
-
-## 🎓 Key Takeaways
-
-- ServiceNow's interface is intuitive and user-friendly
-- Developer instances have minimal required fields for easy learning
-- Production environments require more detailed information
-- Clear descriptions lead to faster resolution times
-
----
-
-**Need Help?** Contact your ServiceNow administrator or check the official ServiceNow documentation.
-
----
-
-*Created for training purposes | Last updated: October 2025*
